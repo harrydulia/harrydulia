@@ -60,11 +60,11 @@
 ### 📈 GitHub 活躍度 (GitHub Stats)
 
 <div align="center">
-  <!-- 總覽數據與語言 -->
+  <!-- <!-- 總覽數據與語言 -->
   <img src="https://github-readme-stats.vercel.app/api?username=harrydulia&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Harry's GitHub Stats" />
   <br/>
   <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=harrydulia&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
-  <br/>
+  <br/> -->
   <!-- 動態貢獻連續紀錄 (Streak) 展現活躍感 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrydulia&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&sideNums=58A6FF&sideLabels=C3D1D9&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
 </div>
