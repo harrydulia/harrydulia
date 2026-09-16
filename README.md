@@ -18,10 +18,10 @@
   
   <br>
 
-  [![Website](https://img.shields.io/badge/個人網站-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://harrydulia.github.io/harry.resume.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#) <!-- 請替換為您的 LinkedIn 連結 -->
-  
-  *歡迎來到我的 GitHub！我專注於打造實用的 Web 應用程式、數據驅動工具，並運用數學最佳化來解決現實世界的問題。*
+[![Website](https://img.shields.io/badge/個人網站-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://harrydulia.github.io/harry.resume.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harrywu1129/)
+
+_歡迎來到我的 GitHub！我專注於打造實用的 Web 應用程式、數據驅動工具，並運用數學最佳化來解決現實世界的問題。_
 
 </div>
 
@@ -34,8 +34,6 @@
 - 🎓 畢業於**臺北商業大學資訊管理系碩士班**，研究領域深入探討**穩健投資組合最佳化**，並曾在維也納的 IFORS 2026 學術研討會發表研究成果。
 - 👨‍🏫 曾擔任大學部**資料庫管理**課程的教學助理。
 - ⚡ **有趣的事實：** 當我不在寫 Python 腳本或檢查資料形狀 (Data Shape) 時，你可能會發現我正在規劃 10k 的河岸夜跑路線、精算台積電等股票的損益兩平點！
-
-
 
 ### 🛠️ 技術棧與工具 (Tech Stack & Tools)
 
